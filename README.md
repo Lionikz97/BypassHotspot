@@ -6,7 +6,7 @@
    ![image](https://user-images.githubusercontent.com/92897556/195276075-75a42d09-301d-4b7e-9d8f-c5890fc4f0f8.png)
 4. type "netsh int ipv4 set glob defaultcurhoplimit=65" di cmd 
 5. tekan enter dan akan keluar ok
-   ![image](https://user-images.githubusercontent.com/92897556/195275785-3a2f83fd-ce66-4e0b-a7c5-68780d3fc0d7.png)
+. ![image](https://user-images.githubusercontent.com/92897556/195275785-3a2f83fd-ce66-4e0b-a7c5-68780d3fc0d7.png)
 6. dah bypass
 
 
