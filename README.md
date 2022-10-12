@@ -3,10 +3,10 @@
 1. Buka hotspot di handfon
 2. Di laptop/pc, connect hotspot yang dibuka
 3. Di laptop/pc, click start then type cmd, run as administrator 
-4. ![image](https://user-images.githubusercontent.com/92897556/195276075-75a42d09-301d-4b7e-9d8f-c5890fc4f0f8.png)
-5. type "netsh int ipv4 set glob defaultcurhoplimit=65" di cmd 
+ ![image](https://user-images.githubusercontent.com/92897556/195276075-75a42d09-301d-4b7e-9d8f-c5890fc4f0f8.png)
+4. type "netsh int ipv4 set glob defaultcurhoplimit=65" di cmd 
 6. tekan enter dan akan keluar ok
-7. ![image](https://user-images.githubusercontent.com/92897556/195275785-3a2f83fd-ce66-4e0b-a7c5-68780d3fc0d7.png)
+ ![image](https://user-images.githubusercontent.com/92897556/195275785-3a2f83fd-ce66-4e0b-a7c5-68780d3fc0d7.png)
 8. dah bypass
 
 
